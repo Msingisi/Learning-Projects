@@ -1,0 +1,1 @@
+CREATE DATABASE north_wind_traders;
